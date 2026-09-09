@@ -13,3 +13,6 @@ My name in Ines and I'm a student of *Computational science* in *Lund's Universi
 - Conservation
 - Population dynamics
 - Data analysis
+
+### Goals
+I would like to improve my coding skills and be able to computational science to apply my knowledge in ecology
